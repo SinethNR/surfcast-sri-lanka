@@ -37,6 +37,8 @@ st.markdown("""
 <style>
 .block-container {padding-top: 1.6rem;}
 div[data-testid="stMetric"] {background: #f4f8fb; border: 1px solid #e3ecf3; border-radius: 10px; padding: 10px 14px;}
+div[data-testid="stMetric"] [data-testid="stMetricLabel"], div[data-testid="stMetric"] [data-testid="stMetricLabel"] *,
+div[data-testid="stMetric"] [data-testid="stMetricValue"], div[data-testid="stMetric"] [data-testid="stMetricValue"] * {color: #0b3d5c !important;}
 .hero {background: linear-gradient(120deg, #0b3d5c 0%, #1f77b4 55%, #3fb0c9 100%); color: white;
        padding: 22px 28px; border-radius: 14px; margin-bottom: 14px;}
 .hero h1 {color: white; margin: 0; font-size: 2.0rem;} .hero p {margin: 6px 0 0 0; opacity: .92;}
