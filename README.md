@@ -4,6 +4,8 @@ Predicting **tomorrow's good surf days** at **Arugam Bay** (east coast) and **Hi
 Sri Lanka, with Bagging, Boosting, Stacking and hybrid models. Built for the Machine Learning hands-on mini project
 (Ensemble Learning).
 
+**Live dashboard:** https://surfcast-sri-lanka.streamlit.app
+
 > 🤖 **AI-use declaration:** parts of the code, dashboard and documentation were generated with **Claude (Anthropic)**.
 > The student ran all the code, checked the outputs and understands the methods. Student: **Dheeraka**.
 
